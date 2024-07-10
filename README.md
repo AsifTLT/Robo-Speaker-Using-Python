@@ -1,4 +1,4 @@
-Project Title: 🌟 RoboSpeaker with Python 🌟
+Project Title: RoboSpeaker with Python 🔊🐍
 
 ✨ If You Run This Project And get the Preview! here is Repl Link: https://replit.com/@Pythonworlds/Robo-Speaker?v=1
 
